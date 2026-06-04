@@ -1,0 +1,18 @@
+country_region_name,local_authority_code,local_authority_name,outlier_year_count,first_outlier_year,last_outlier_year,max_ratio,average_outlier_ratio
+London,E09000033,Westminster,23,2002,2025,24.79,17.565217391304348
+London,E09000020,Kensington and Chelsea,22,2002,2025,34.77,21.99318181818182
+London,E09000013,Hammersmith and Fulham,20,2005,2025,20.04,15.772499999999999
+London,E09000007,Camden,18,2008,2025,19.65,16.419444444444444
+London,E09000012,Hackney,5,2014,2020,17.29,15.440000000000001
+London,E09000019,Islington,4,2013,2016,16.51,14.732500000000002
+London,E09000027,Richmond upon Thames,3,2014,2022,16.6,14.556666666666667
+North West,E07000117,Burnley,3,2004,2006,3.0,2.41
+South West,E06000053,Isles of Scilly,2,2009,2019,25.28,21.12
+East of England,E07000098,Hertsmere,2,2014,2022,16.58,14.834999999999999
+London,E09000032,Wandsworth,2,2014,2015,13.8,13.46
+South East,E07000210,Mole Valley,1,2020,2020,16.79,16.79
+London,E09000009,Ealing,1,2015,2015,14.34,14.34
+London,E09000005,Brent,1,2013,2013,12.13,12.13
+South West,E07000079,Cotswold,1,2010,2010,11.81,11.81
+South West,E07000043,North Devon,1,2005,2005,10.88,10.88
+North East,E06000001,Hartlepool,1,2005,2005,2.86,2.86

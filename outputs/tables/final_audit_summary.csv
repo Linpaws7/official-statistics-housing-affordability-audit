@@ -1,0 +1,14 @@
+metric,value
+Total local authorities in source sheet,318
+Total year-level records after reshaping,7632
+Years covered,2002 to 2025
+Missing house price-to-earnings ratio records,61
+Statistical outlier records flagged,110
+Local authorities with at least one missing year,23
+Local authorities with valid code pattern,318
+Invalid local authority code patterns,0
+Duplicate local authority codes,0
+Areas with both 2002 and 2025 values,295
+Average affordability ratio in 2002,5.11
+Average affordability ratio in 2025,7.98
+"Average affordability-ratio increase, 2002 to 2025",2.87

@@ -1,0 +1,21 @@
+country_region_code,country_region_name,local_authority_code,local_authority_name,year,house_price_to_earnings_ratio
+E12000007,London,E09000020,Kensington and Chelsea,2025,21.87
+E12000007,London,E09000033,Westminster,2025,16.44
+E12000007,London,E09000013,Hammersmith and Fulham,2025,14.83
+E12000007,London,E09000007,Camden,2025,14.49
+E12000007,London,E09000005,Brent,2025,13.89
+E12000008,South East,E07000210,Mole Valley,2025,13.51
+E12000007,London,E09000009,Ealing,2025,13.21
+E12000007,London,E09000014,Haringey,2025,13.02
+E12000007,London,E09000027,Richmond upon Thames,2025,12.58
+E12000008,South East,E07000207,Elmbridge,2025,12.52
+E12000006,East of England,E07000102,Three Rivers,2025,12.39
+E12000007,London,E09000019,Islington,2025,12.33
+E12000008,South East,E07000215,Tandridge,2025,12.32
+E12000006,East of England,E07000098,Hertsmere,2025,12.27
+E12000007,London,E09000015,Harrow,2025,12.16
+E12000007,London,E09000017,Hillingdon,2025,12.07
+E12000007,London,E09000003,Barnet,2025,12.07
+E12000007,London,E09000018,Hounslow,2025,11.87
+E12000007,London,E09000031,Waltham Forest,2025,11.86
+E12000008,South East,E07000225,Chichester,2025,11.77

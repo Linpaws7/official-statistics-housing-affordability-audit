@@ -1,0 +1,21 @@
+country_region_code,country_region_name,local_authority_code,local_authority_name,year,house_price_to_earnings_ratio
+E12000002,North West,E07000120,Hyndburn,2025,3.86
+E12000002,North West,E07000117,Burnley,2025,3.91
+W92000004,Wales,W06000024,Merthyr Tydfil,2025,3.98
+W92000004,Wales,W06000019,Blaenau Gwent,2025,4.02
+E12000002,North West,E06000063,Cumberland,2025,4.18
+E12000002,North West,E06000009,Blackpool,2025,4.27
+E12000001,North East,E06000047,County Durham,2025,4.28
+E12000001,North East,E06000002,Middlesbrough,2025,4.36
+E12000003,Yorkshire and The Humber,E06000010,"Kingston upon Hull, City of",2025,4.46
+W92000004,Wales,W06000012,Neath Port Talbot,2025,4.54
+W92000004,Wales,W06000016,Rhondda Cynon Taf,2025,4.59
+E12000002,North West,E07000122,Pendle,2025,4.62
+E12000001,North East,E08000024,Sunderland,2025,4.64
+E12000001,North East,E06000004,Stockton-on-Tees,2025,4.66
+E12000001,North East,E06000003,Redcar and Cleveland,2025,4.7
+E12000003,Yorkshire and The Humber,E06000012,North East Lincolnshire,2025,4.71
+E12000005,West Midlands,E06000021,Stoke-on-Trent,2025,4.73
+E12000001,North East,E08000037,Gateshead,2025,4.8
+E12000002,North West,E08000012,Liverpool,2025,4.85
+E12000001,North East,E06000001,Hartlepool,2025,4.86
